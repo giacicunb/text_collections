@@ -1,2 +1,2 @@
 # text_collections
-Several text collections
+Some labeled text collections for research purposes
