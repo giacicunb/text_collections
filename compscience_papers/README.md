@@ -1,6 +1,6 @@
 <h2>Scientific papers</h2>
 
-<h4>Description</h4>
+<h3>Description</h3>
 
 Collection of 682 scientific papers, which are categorized as:
 
@@ -12,11 +12,11 @@ Collection of 682 scientific papers, which are categorized as:
 
 Each scientific paper is represented by a simple text describing its **title, authors, abstract and references**.
 
-<h4>Source</h4>
+<h3>Source</h3>
 
 http://vicg.icmc.usp.br/vicg/software
 
-<h4>Files</h4>
+<h3>Files</h3>
 
 **cbr-ilp-ir-son-int.zip**: compacted files of all scientific papers;
 
@@ -24,7 +24,7 @@ http://vicg.icmc.usp.br/vicg/software
 
 **cbr-ilp-ir-son-int_cosine_gpt.data**: derived TF-IDF representation of this text collection;
 
-<h4>References</h4>
+<h3>References</h3>
 
 [1] Paulovich, F. V., Nonato, L. G., Minghim, R., & Levkowitz, H., Least square projection: A fast high-precision multidimensional projection technique and its application to document mapping. IEEE Transactions on Visualization and Computer Graphics, v. 14, n. 3, p. 564-575, 2008.
 
