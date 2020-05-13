@@ -10,9 +10,19 @@ Collection of 682 scientific papers, which are categorized as:
 4) Sonification (SON)
 5) Interactive Visualization (INT)
 
+Each scientific paper is represented by a simple text describing its **title, authors, abstract and references**.
+
 <h4>Source</h4>
 
 http://vicg.icmc.usp.br/vicg/software
+
+<h4>Files</h4>
+
+**cbr-ilp-ir-son-int.zip**: compacted files of all scientific papers;
+
+**compscience_papers.csv**: csv file structured as [label,text of the scientific paper];
+
+**cbr-ilp-ir-son-int_cosine_gpt.data**: derived TF-IDF representation of this text collection;
 
 <h4>References</h4>
 
