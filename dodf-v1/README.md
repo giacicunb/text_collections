@@ -41,7 +41,7 @@ Tribunal de Contas do Distrito Federal
 **preliminary_analysis_dodf.ipynb**: Python file por preliminary text set analysis;
 
 **.data**: *(not available)* structure set or derived TF-IDF representation of this text collection;
-**.zip**: *(not available)* compacted files of all scientific papers;
+**.zip**: *(not available)* compacted files of all texts, each file as a single text file;
 
 ### References
 
