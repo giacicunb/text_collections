@@ -6,6 +6,10 @@ Some labeled text collections for research purposes. Each folder is associated w
 
 Tasks: text document classification, multiclass
 
+### DODF-v1
+
+Tasks: text classification, entity recognition linking
+
 ### Australia Legal Case Reports
 
 
