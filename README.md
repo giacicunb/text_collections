@@ -10,6 +10,10 @@ Tasks: text document classification, multiclass
 
 Tasks: text classification, entity recognition linking
 
+### DORE
+
+Tasks: text classification, entity recognition linking
+
 ### Australia Legal Case Reports
 
 
